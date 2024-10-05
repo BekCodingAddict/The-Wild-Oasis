@@ -1,5 +1,29 @@
 # The-Wild-Oasis
 
+### What is The Wild Oasis?
+>[!TIP]
+> “The Wild Oasis” is a small boutique hotel with 8 luxurious wooden cabins <br/>
+>They need a custom-built application to manage 
+everything about the hotel: bookings, cabins
+and guests <br/>
+>This is the internal application used inside the
+hotel to check in guests as they arrive
+>They have nothing right now, so they also need
+the API <br/>
+>Later they will probably want a customer-facing
+website as well, where customers will be able to
+book stays, using the same API <br/>
+
+### API 
+ ```mermaid
+graph TD;
+ API-->CUSTOMER_FACING_WEBSITE_TO_BOOK_STAYS;
+ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
+```
+
+
+
+
 ### Project Requirments:
 - [ ] Users of the app are hotel employees. They need to be logged into the application to perform tasks
 - [ ] New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts)
