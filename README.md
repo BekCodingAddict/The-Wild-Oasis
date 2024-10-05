@@ -35,3 +35,16 @@ then confirm that payment has been received (inside the app)
 | Authentication | User sign up | /users |
 | Authentication | Login | /login |
 | Authentication | Accaunt Settings | /accaunt |
+
+### Technologies and Tools:
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="React Redux" alt="React Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="React Routher" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/BekCodingAddict/Icons/blob/master/icons/styled-component/file-type-styled.svg" title="Styled Component" alt="Styled Component" width="40" height="40"/>&nbsp;
+    <img src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png" title="React Hook Form" alt="React Hook Form" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/BekCodingAddict/Icons/blob/master/icons/react-query/logos--react-query-icon.svg" title="React Query" alt="React Query" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BekCodingAddict/Icons/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
+<img src="https://github.com/BekCodingAddict/Icons/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
