@@ -33,11 +33,11 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 - [x] App needs a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data
 - [x] The booking status can be “unconfirmed” (booked but not yet checked in), “checked in”, or “checked out”. The table should be filterable
       by this important status
-- [ ] Other booking data includes: number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price
-- [ ] Users should be able to delete, check in, or check out a booking as the guest arrives (no editing necessary for now)
-- [ ] Bookings may not have been paid yet on guest arrival. Therefore, on check in, users need to accept payment (outside the app), and
+- [x] Other booking data includes: number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price
+- [x] Users should be able to delete, check in, or check out a booking as the guest arrives (no editing necessary for now)
+- [x] Bookings may not have been paid yet on guest arrival. Therefore, on check in, users need to accept payment (outside the app), and
       then confirm that payment has been received (inside the app)
-- [ ] On check in, the guest should have the ability to add breakfast for the entire stay, if they hadn’t already
+- [x] On check in, the guest should have the ability to add breakfast for the entire stay, if they hadn’t already
 - [x] Guest data should contain: full name, email, national ID, nationality, and a country flag for easy identification
 - [ ] The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
 - [ ] A list of guests checking in and out on the current day. Users should be able to perform these tasks from here
