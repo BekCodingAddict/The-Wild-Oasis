@@ -25,9 +25,9 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 
 ### Project Requirments:
 
-- [ ] Users of the app are hotel employees. They need to be logged into the application to perform tasks
-- [ ] New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts)
-- [ ] Users should be able to upload an avatar, and change their name and password
+- [x] Users of the app are hotel employees. They need to be logged into the application to perform tasks
+- [x] New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts)
+- [x] Users should be able to upload an avatar, and change their name and password
 - [x] App needs a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount
 - [x] Users should be able to update or delete a cabin, and to create new cabins (including uploading a photo)
 - [x] App needs a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data
@@ -45,7 +45,7 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 - [ ] A chart showing all daily hotel sales, showing both “total” sales and “extras” sales (only breakfast at the moment)
 - [ ] A chart showing statistics on stay durations, as this is an important metric for the hotel
 - [x] Users should be able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
-- [ ] App needs a dark mode
+- [x] App needs a dark mode
 
 ### FEATURES+PAGES
 
