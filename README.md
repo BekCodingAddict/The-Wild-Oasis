@@ -39,11 +39,11 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
       then confirm that payment has been received (inside the app)
 - [x] On check in, the guest should have the ability to add breakfast for the entire stay, if they hadn’t already
 - [x] Guest data should contain: full name, email, national ID, nationality, and a country flag for easy identification
-- [ ] The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
-- [ ] A list of guests checking in and out on the current day. Users should be able to perform these tasks from here
-- [ ] Statistics on recent bookings, sales, check ins, and occupancy rate
-- [ ] A chart showing all daily hotel sales, showing both “total” sales and “extras” sales (only breakfast at the moment)
-- [ ] A chart showing statistics on stay durations, as this is an important metric for the hotel
+- [x] The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
+- [x] A list of guests checking in and out on the current day. Users should be able to perform these tasks from here
+- [x] Statistics on recent bookings, sales, check ins, and occupancy rate
+- [x] A chart showing all daily hotel sales, showing both “total” sales and “extras” sales (only breakfast at the moment)
+- [x] A chart showing statistics on stay durations, as this is an important metric for the hotel
 - [x] Users should be able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
 - [x] App needs a dark mode
 
