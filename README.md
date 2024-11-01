@@ -53,7 +53,7 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 | ---------------- | ---------------- | ------------------- |
 | Dashboard        | Dashboard        | /dashboard          |
 | Bookings         | Bookings         | /bookings           |
-| Check in and out | Booking check in | /checkin/:bppkingId |
+| Check in and out | Booking check in | /checkin/:bookingId |
 | Cabins           | Cabins           | /cabins             |
 | App settings     | App settings     | /settings           |
 | Authentication   | User sign up     | /users              |
