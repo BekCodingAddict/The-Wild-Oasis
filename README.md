@@ -23,6 +23,8 @@ API-->CUSTOMER_FACING_WEBSITE_TO_BOOK_STAYS;
 API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 ```
 
+## INTERNAL HOTEL MANAGEMENT APP
+
 ### Project Requirments:
 
 - [x] Users of the app are hotel employees. They need to be logged into the application to perform tasks
