@@ -91,6 +91,13 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 ### 7.Rechart 사용 경험
 - Rechart 라는 차트 라이브러리를 통해 다양한 데이터를 더 예쁘고 잘 이해할 수 있도록 UI 설계하는 것을 경험해 봤습니다. 사질은 차트 라이브러리도 재미있었고 여러 Tempo 데이터를 사용하여 재미로 다양한 차트들도 구현해 봤습니다.
 
+## Problems & Challanges
+| Error & Problem Title | Status | Difficult | Date |
+|--|--|--|--|
+|[ ♾️ Infinite Loop in useQuery](https://github.com/BekCodingAddict/The-Wild-Oasis/blob/master/Errors/Infinite-Loop-in-useQuery.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 23, 2024 |
+|[⚠️ Incorrect Storage Bucket Configuration](https://github.com/BekCodingAddict/The-Wild-Oasis/blob/master/Errors/Incorrect-Storage-Bucket-Configuration.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 11, 2024 |
+|[💡 Dynamic Styling Based on Props Issue](https://github.com/BekCodingAddict/The-Wild-Oasis/blob/master/Errors/Dynamic-Styling-Based-on-Props-Issue.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 5, 2024 |
+
 ## 앞으로 추가해야 할 점들:
 ### 1.반응형 디자인 구현
 - 반응형 디자인의 구현과 테스트 과정을 통해 다양한 디바이스에서의 사용자 경험을 최적화하는 것
