@@ -98,6 +98,30 @@ API-->INTERNAL_HOTEL_MANAGEMENT_APP;
 |[⚠️ Incorrect Storage Bucket Configuration](https://github.com/BekCodingAddict/The-Wild-Oasis/blob/master/Errors/Incorrect-Storage-Bucket-Configuration.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 11, 2024 |
 |[💡 Dynamic Styling Based on Props Issue](https://github.com/BekCodingAddict/The-Wild-Oasis/blob/master/Errors/Dynamic-Styling-Based-on-Props-Issue.md) | ![solved](https://img.shields.io/badge/solved-blue) | low | Oct 5, 2024 |
 
+## UI/UX
+Login:
+<img width="1024" height="765" alt="TheWildOasisDashboard" src="https://github.com/user-attachments/assets/23aae76c-d9a9-4948-ad94-8892d21667f0" />
+
+Dark Mode:
+<img width="1258" height="940" alt="TheWildOasisDashboard-Dark" src="https://github.com/user-attachments/assets/2b6b5302-3096-496e-af06-e7987b9728ea" />
+
+Light Mode:
+<img width="1272" height="957" alt="TheWildOasisDashboard-Home" src="https://github.com/user-attachments/assets/7bfbba8c-6dfd-4c3f-bc93-9458a856bba5" />
+
+Bookings:
+<img width="1274" height="958" alt="TheWildOasisDashboard-Booking" src="https://github.com/user-attachments/assets/5f19c691-b0b7-4be4-be40-7a6026ff4c7b" />
+
+Cabins:
+<img width="1276" height="957" alt="TheWildOasisDashboard-Cabin" src="https://github.com/user-attachments/assets/1d323a60-c74c-4fb4-9a34-942026bc5e89" />
+
+Users:
+<img width="1275" height="957" alt="TheWildOasisDashboard-User" src="https://github.com/user-attachments/assets/6a8b7184-df46-49b6-afba-a2081e3e664d" />
+
+
+
+
+
+
 ## 앞으로 추가해야 할 점들:
 ### 1.반응형 디자인 구현
 - 반응형 디자인의 구현과 테스트 과정을 통해 다양한 디바이스에서의 사용자 경험을 최적화하는 것
